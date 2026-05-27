@@ -14,6 +14,9 @@ Bloxstrike Script is the most polished and community-driven enhancement tool bui
 
 Bloxstrike Script was created to solve a real problem — most available tools for Bloxstrike are either unstable, packed with unnecessary features, or simply stop working after updates. This Bloxstrike Script takes a different approach by focusing on core competitive mechanics that actually matter in-game. From Bloxstrike Script Hitbox expansion that gives you a tangible advantage in gunfights, to fluid bunny hop movement that makes traversal faster and more unpredictable, every feature exists because the community asked for it. The project is open, actively maintained, and specifically designed to stay compatible with Roblox Bloxstrike Script environments through frequent patches and version updates.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2042b333-d4f5-42b5-9e71-4c6025ef659b" />
+
+
 What really sets this Bloxstrike Script apart is the lightweight architecture behind it. There is no bloat, no unnecessary GUI clutter, and no hidden processes running in the background. You load the script, configure what you need through the clean settings panel, and play. Bloxstrike Script Hvh functionality is built into the core so competitive head-versus-head scenarios feel responsive and fair on your end. The configuration system supports saving your preferences to `config.json`, so every session starts exactly where you left off. Whether you are a casual player wanting a small edge or a dedicated competitor pushing ranked sessions, Roblox Bloxstrike Script adapts to your style without forcing anything unnecessary.
 
 ---
